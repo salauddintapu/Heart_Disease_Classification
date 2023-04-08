@@ -20,4 +20,11 @@ ALCOHOL: categorical (0>No, 1>Yes)
 PHYSICAL_ACTIVITY: categorical (0>No, 1>Yes)
 <br><br>
 
-<b>Random Forest Classifier:</b> 
+## Classifiers:
+### Random Forest Classifier
+<b>Accuracy:</b> 72.84%
+<b>AUC:</b> 79.78%
+<b>Precision:</b> 75.71%
+<b>Recall:</b> 68.63%
+<b>F1:</b> 72%
+<b>CV:</b> 72.97%
